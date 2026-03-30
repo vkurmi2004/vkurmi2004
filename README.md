@@ -13,10 +13,10 @@ A full-stack diagnostic system utilizing an ensemble of deep learning models (Re
 - **Tools:** Git, GitHub, RESTful APIs
 
 ## 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vkurmi2004&show_icons=true&theme=radiant" alt="vkurmi2004's github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkurmi2004&layout=compact&theme=radiant" alt="Top Languages" width="35%" />
-</p>
+![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vkurmi2004&show_icons=true&theme=radiant)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vkurmi2004&layout=compact&theme=radiant)
+
 
 ## 📫 Let's Connect!
 - 💼 **LinkedIn:** [Vivek Kurmi](https://www.linkedin.com/in/vivek-kurmi-b6a461374/)
