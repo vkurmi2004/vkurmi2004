@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Vivek Kurmi 👋
 
-<!--
-**vkurmi2004/vkurmi2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Machine Learning Engineer** & **Full-Stack Developer** focused on building impressive AI systems. Currently, I'm deep-diving into medical computer vision and creating web applications that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Featured Project
+**[LungCancerDX](https://github.com/vkurmi2004/LungCancerDX)** 
+A full-stack diagnostic system utilizing an ensemble of deep learning models (ResNet50, EfficientNetB0, DenseNet121) to detect malignant lung cancer from CT scans, featuring real-time Grad-CAM Explainable AI visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **AI / Deep Learning:** PyTorch, TensorFlow, OpenCV, CNNs, Explainable AI (Grad-CAM)
+- **Backend:** Python, FastAPI, WebSockets
+- **Frontend:** React, HTML DOM, Vanilla CSS, JavaScript
+- **Tools:** Git, GitHub, RESTful APIs
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vkurmi2004&show_icons=true&theme=radiant" alt="vkurmi2004's github stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkurmi2004&layout=compact&theme=radiant" alt="Top Languages" width="35%" />
+</p>
+
+## 📫 Let's Connect!
+- 💼 **LinkedIn:** [Vivek Kurmi](https://www.linkedin.com/in/vivek-kurmi-b6a461374/)
+- 📧 **Email:** [vivek11march2004@gmail.com](mailto:vivek11march2004@gmail.com)
