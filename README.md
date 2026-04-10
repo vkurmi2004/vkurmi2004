@@ -10,7 +10,6 @@
        <ul>
          <li>🚀 Building dynamic, API-driven web platforms.</li>
          <li>🧠 Engineering Deep Learning & Computer Vision architectures.</li>
-         <li>💻 Solved <b>100+</b> algorithmic challenges in Java.</li>
        </ul>
        <br/>
        <h2>📬 Connect</h2>
