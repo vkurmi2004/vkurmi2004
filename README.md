@@ -1,72 +1,66 @@
 <div align="center">
-  
-# ⚡ System Status: VIVEK_KURMI
-> `[RUNTIME ENV: MERN Stack | Java | Deep Learning]`
-
-<br/>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vkurmi2004&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/vkurmi2004)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkurmi2004&theme=radical&layout=compact&hide_border=true)](https://github.com/vkurmi2004)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Vivek%20Kurmi&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<br/>
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+       <h2>💡 Who am I?</h2>
+       <p>A fast-paced <b>Full Stack Developer (MERN)</b> and <b>AI/ML Undergraduate</b> who turns complex Data Structures into optimized software.</p>
+       <ul>
+         <li>🚀 Building dynamic, API-driven web platforms.</li>
+         <li>🧠 Engineering Deep Learning & Computer Vision architectures.</li>
+         <li>💻 Solved <b>100+</b> algorithmic challenges in Java.</li>
+       </ul>
+       <br/>
+       <h2>📬 Connect</h2>
+       <a href="https://linkedin.com/in/vivek-kurmi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+       <a href="mailto:vivek11march2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
+    </td>
+    <td width="5%" valign="top"></td> <!-- Spacer -->
+    <td width="40%" valign="top">
+       <h2>🛠️ Core Arsenal</h2>
+       <a href="https://skillicons.dev">
+         <img src="https://skillicons.dev/icons?i=java,py,js,html,css" /><br/><br/>
+         <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /><br/><br/>
+         <img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github" />
+       </a>
+    </td>
+  </tr>
+</table>
 
-### `~/bio/whoami`
-```json
-$ curl -X GET https://api.viveklive.dev/profile
+### 🚀 Highlighted Work
 
-{
-  "name": "Vivek Kurmi",
-  "location": "West Bengal, India",
-  "education": "B.Tech in CSE (AI & Machine Learning) @ 2026",
-  "core_competencies": [
-    "Backend Architecture", 
-    "Deep Learning Models", 
-    "Algorithmic Problem Solving"
-  ],
-  "mission": "Building scalable web & AI solutions",
-  "dsa_solved": "100+ on LeetCode & GeeksforGeeks"
-}
-```
-
-<br/>
-
-### `~/engineering/tech_stack`
-
-| Architecture Layer | Core Technologies |
-| :--- | :--- |
-| **Foundational** | `Java` • `Python` • `JavaScript` |
-| **Frontend Eng** | `React.js` • `HTML5 / CSS3` |
-| **Backend Eng** | `Node.js` • `Express.js` • `FastAPI` |
-| **Databases** | `MongoDB` (Advanced Aggregations) • `SQL` |
-| **Infrastructure** | `REST API Design` • `JWT Auth` • `Git/GitHub` |
-| **CS Fundamentals** | `Data Structures` • `Algorithms` • `OOP` • `Operating Systems` |
-
-<br/>
-
-### `~/projects/deployment`
-
-**[`[01] WANDERLUST PLATFORM`](https://github.com/vkurmi2004)**  
-*Full-Stack Real Estate MERN Architecture*  
-> End-to-end Airbnb clone featuring hardened JWT authentication workflows, dynamic reactive UIs, and multi-criteria MongoDB search aggregations handling complex data validations.
-
-**[`[02] LUNG CANCER DIAGNOSIS ENGINE`](https://github.com/vkurmi2004/LungCancerDX)**  
-*Computer Vision Research Project*  
-> Engineered a deep learning ensemble model capable of **89% accuracy** in CT scan medical verifications. Integrates Grad-CAM for diagnostic explainability, routed through a high-throughput **FastAPI** backend infrastructure.
-
-**[`[03] TASK MANAGEMENT ENGINE`](https://github.com/vkurmi2004)**  
-*Full-Stack MVC System*  
-> High-performance task lifecycle manager built dynamically with pure React Hooks to guarantee instant CRUD synchronizations rendering onto intuitive dashboard analytics.
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 <a href="https://github.com/vkurmi2004">Wanderlust Platform</a></h3>
+      <p>A robust Airbnb clone powered by the MERN stack with <b>JWT Authorization</b> and advanced <b>MongoDB aggregations</b> for multi-criteria search filtering.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🫁 <a href="https://github.com/vkurmi2004/LungCancerDX">AI Cancer Diagnosis</a></h3>
+      <p>An ensemble Deep Learning system achieving <b>89% accuracy</b> on CT scans. Features <b>Grad-CAM</b> explainable AI fed through a high-performance <b>FastAPI</b> handler.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ <a href="https://github.com/vkurmi2004">Task Management MVC</a></h3>
+      <p>Dynamic dashboard orchestrator using pure <b>React Hooks</b> on the frontend interacting with a highly scalable NodeJS server.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Data Structures Mastery</h3>
+      <p>Consistently architecting optimized algorithms in <b>Java</b> across LeetCode & GeeksForGeeks to guarantee elite production-grade solutions.</p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  
-  <i>"Passionate about solving complex problems and delivering efficient, production-ready software."</i>
-  
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vkurmi2004&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkurmi2004&theme=tokyonight&hide_border=true" width="45%"/>
+</div>
 
-  <a href="mailto:vivek11march2004@gmail.com"><kbd>📧 Email</kbd></a> • <a href="https://linkedin.com/in/vivek-kurmi"><kbd>💼 LinkedIn</kbd></a> • <a href="https://github.com/vkurmi2004"><kbd>🐙 GitHub</kbd></a>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
 </div>
